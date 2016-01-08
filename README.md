@@ -2,6 +2,8 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
+![](screenshot.png)
+
 Visualizes you [Pocket](https://getpocket.com) added vs archived article counts
 
 ## Usage
